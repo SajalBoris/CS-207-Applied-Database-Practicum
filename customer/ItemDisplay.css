@@ -1,0 +1,109 @@
+
+#custom-search-input {
+    position: relative;
+    margin: 0;
+    margin-top: 5%;
+    margin-bottom: 0.5%;
+    margin-left: 10%; 
+    padding: 10px;
+    width: 200%;
+}
+
+#custom-search-input .search-query {
+padding-right: 3px;
+padding-right: 4px \9;
+padding-left: 3px;
+padding-left: 4px \9;
+z-index: 1;
+margin-bottom: 0;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+}
+
+#custom-search-input button {
+border: 0;
+background: none;
+padding: 2px 5px;
+margin-top: 2px;
+position: relative;
+left: -28px;
+margin-bottom: 0;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+color: skyblue;
+}
+
+.search-query:focus + button {
+z-index: 3;   
+}
+
+#row2{
+margin-top: 0px;
+}
+
+#custom_item_display_unit{
+margin-top: 10px;
+}
+
+#Links{
+position: relative;
+margin-top: 0.5%;
+margin-bottom: 0.5%;
+}
+
+#title{
+margin-top: -1%;
+}
+
+#mapmarker{
+color: red;
+margin-left: 50px;
+}
+
+#shopdist{
+margin-left: 20px;
+}
+
+#addtocart{
+position: relative;
+color: #FFFF00;
+width:110%;
+margin-top: 40px;
+}
+
+#Quantity{
+position: relative;
+width: 50px;
+}
+
+.navbar{
+z-index: 9999999;
+background-image: url(https://cdn.suwalls.com/wallpapers/abstract/polygon-texture-26717-2560x1600.jpg);
+background-position:center;
+}
+
+.foot{
+position: relative;
+right: 0;
+bottom: 0;
+left: 0;
+padding: 1rem;
+background-color: #efefef;
+text-align: center;
+}
+
+#bod{
+background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0313/0881/rrOff-white_F6ECC3_matches_Fretting-for-Klimt-on-off-white_shop_thumb.png);
+padding:100px;
+}
+
+.panel-default{
+}
+
+.col-md-2{
+}
+
+.col-md-6{
+}

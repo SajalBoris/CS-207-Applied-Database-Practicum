@@ -1,0 +1,23 @@
+.navbar{
+    z-index: 9999999;
+    background-image: url(https://cdn.suwalls.com/wallpapers/abstract/polygon-texture-26717-2560x1600.jpg);
+    background-position:center;
+}
+
+#bod{
+    background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0313/0881/rrOff-white_F6ECC3_matches_Fretting-for-Klimt-on-off-white_shop_thumb.png);
+    padding:100px;
+}
+
+.foot{
+  position: relative;
+  background-image: url(https://cdn.suwalls.com/wallpapers/abstract/polygon-texture-26717-2560x1600.jpg);
+  background-position: top;
+  background-repeat: repeat;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
